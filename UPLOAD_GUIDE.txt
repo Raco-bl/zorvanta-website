@@ -1,0 +1,19 @@
+ZORVANTA FINAL WEBSITE + COMMAND CENTER
+
+IMPORTANT:
+- Keep index.html, dashboard.html, services.html, studio.html, about.html,
+  contact.html, settings.html, and the assets folder together.
+- Do NOT rename dashboard.html to index.html.
+- index.html is the public homepage.
+- dashboard.html is the private-style Command Center prototype.
+- The public navigation now includes Dashboard and Settings.
+
+NETLIFY:
+Deploy this complete folder to the EXISTING site named gilded-tarsier-f58ef9.
+Do not use Netlify Drop if it creates a new site.
+Open the existing site's Deploys page and use the manual deploy / upload area.
+Select the extracted ZORVANTA_FINAL_SITE folder (the folder containing index.html).
+
+Dashboard note:
+This is a front-end prototype. Sample analytics are illustrative; AI API,
+user login, cloud database, billing, and social media integrations are not live.
